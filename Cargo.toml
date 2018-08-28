@@ -1,8 +1,10 @@
 [package]
 name = "myriad"
 version = "0.1.0"
-authors = ["Michael <Michael@LAZEAR-WORK>"]
+authors = ["Michael Lazear <noreply@lazear.io>"]
 license = "MIT"
 description = "Concurrent data structures"
+repository = "https://github.com/lazear/myriad.git"
+homepage = "https://github.com/lazear/myriad"
 
 [dependencies]
